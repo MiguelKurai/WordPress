@@ -51,3 +51,9 @@ Ahora editamos el fichero .htaccess para introducir lo siguiente
 Por último, ya podemos acceder a nuestro servidor WordPress
 
 ![WordPress](CapturasWordpress/wordpress.PNG)
+
+## Script
+
+A continuación, dejaré el script con toda la instalación del servidor WordPress.
+
+[script](script.sh)
