@@ -56,4 +56,4 @@ Por último, ya podemos acceder a nuestro servidor WordPress
 
 A continuación, dejaré el script con toda la instalación del servidor WordPress.
 
-[script](script.sh)
+[Script](script.sh)
